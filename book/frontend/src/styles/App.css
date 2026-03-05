@@ -1,0 +1,18 @@
+.hero{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.hbtn{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background: #efd3d3;
+    cursor: pointer;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
